@@ -1,3 +1,6 @@
+body{
+    min-width: 383px !important;
+}
 #mainDiv{
     text-align: center !important;
     padding: auto !important;
